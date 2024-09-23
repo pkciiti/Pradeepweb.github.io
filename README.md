@@ -1,5 +1,4 @@
-# Research fellow, Mayo Clinic College of Medicine and Science 
-# Department of  Physiology and Biomedical Engineering
+# Post doctoral Research fellow, Mayo Clinic College of Medicine and Science 
 
 ### About me
 Pradeep Kumar Chaudhary received Bachalors of Engineering degree in Electrical and Electronics Engineering from Rajiv Gandhi Technological University, Bhopal, India in 2016 and Masters of Technology degree in Electrical Engineering from National Institute of Technology Hamirpur, India in 2018. He has submitted his Doctor of Philosphy thesis  in department of Electrical Engineering from Indian Institute of Technology Indore, Indore, India. Currently he is research fellow at Mayo Clinic.
