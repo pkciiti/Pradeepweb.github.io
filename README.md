@@ -4,9 +4,12 @@
 Pradeep Kumar Chaudhary received Bachalors of Engineering degree in Electrical and Electronics Engineering from Rajiv Gandhi Technological University, Bhopal, India in 2016 and Masters of Technology degree in Electrical Engineering from National Institute of Technology Hamirpur, India in 2018. He has submitted his Doctor of Philosphy thesis  in department of Electrical Engineering from Indian Institute of Technology Indore, Indore, India. Currently he is research fellow at Mayo Clinic.
 His research interests include medical signal processing, image processing, pattern recognition, Ultrasound, EEG signal processing and machine learning.
 ### Education
--Ph.D. :   Electrical Engineering Department, Indian Institute of Technology Indore   (Dec 2018-May 2023)|Thesis title: Fourier-Bessel Series Expansion for  Medical Image Processing.               
+-Ph.D. :   Electrical Engineering Department, Indian Institute of Technology Indore   (Dec 2018-May 2023)|Thesis title: Fourier-Bessel Series Expansion for  Medical Image Processing.   
+
 -M. Tech. :    Electrical Engineering Department, National Institute of Technology Hamirpur (Jul 2016-May 2018)|Thesis title: Hybrid Technique for Diagnosis of Eye Diseases using Fundus Image.
--B.E. :   Electrical and Electronics Engineering, Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal (Aug 2012- May 2016)|CGPA: 8.38/1
+
+-B.E. :   Electrical and Electronics Engineering, Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal (Aug 2012- May 2016)|CGPA: 8.38/10
+
 ### Publication
 #### Journal
 -P. K. Chaudhary and R.B. Pachori. "Automatic diagnosis of glaucoma using two-dimensional Fourier-Bessel series expansion based empirical wavelet transform." Biomedical Signal Processing and Control 64 (2021): 102237. 
