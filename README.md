@@ -35,13 +35,15 @@ His research interests include medical signal processing, image processing, patt
 
 -P. K. Chaudhary, S. Jain, T. Damani, S. Gokharu and R. B. Pachori. "Detection of Primary and Secondary Glaucoma Using 2D-FBSE-EWT From Different Fundus Image Modalities" (Under Revision).
 
+
 -P. K. Chaudhary, and R. B. Pachori. "Breast cancer diagnosis using Iterative Fourier-Bessel decomposition method based CNN-kernel features. (Under Revision).
+
 
 #### Conferences
 -P. K. Chaudhary, and R. B. Pachori. "Automatic diagnosis of COVID-19 and pneumonia using FBD method." In 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 2257-2263. IEEE, 2020.
-
+[Publication](https://ieeexplore.ieee.org/abstract/document/9313252)
 -P. K. Chaudhary, S. Jain, T. Damani, S. Gokharu and R.B. Pachori. "Automatic Diagnosis of Type of Glaucoma Using Order-One 2D-FBSE-EWT". XXIV International Conference on Digital Signal Processing and Its Applications (DSPA-2022), 30 March-1 April, 2022.
-
+[Publication](https://ieeexplore.ieee.org/abstract/document/9790762)
 #### Book Chapter
 -P. K. Chaudhary, and R. B. Pachori. "Denoising of biomedical images using two-dimensional Fourier-Bessel series expansion based empirical wavelet transform."Assistive Technology Intervention in Healthcare.
 
