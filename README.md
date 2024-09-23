@@ -1,7 +1,7 @@
 # Research fellow, Mayo Clinic College of Medicine and Science 
 # Department of  Physiology and Biomedical Engineering
 
-#### About me
+### About me
 Pradeep Kumar Chaudhary received Bachalors of Engineering degree in Electrical and Electronics Engineering from Rajiv Gandhi Technological University, Bhopal, India in 2016 and Masters of Technology degree in Electrical Engineering from National Institute of Technology Hamirpur, India in 2018. He has submitted his Doctor of Philosphy thesis  in department of Electrical Engineering from Indian Institute of Technology Indore, Indore, India. Currently he is research fellow at Mayo Clinic.
 His research interests include medical signal processing, image processing, pattern recognition, Ultrasound, EEG signal processing and machine learning.
 ### Education
@@ -9,7 +9,7 @@ His research interests include medical signal processing, image processing, patt
 -M. Tech. :    Electrical Engineering Department, National Institute of Technology Hamirpur (Jul 2016-May 2018)|Thesis title: Hybrid Technique for Diagnosis of Eye Diseases using Fundus Image.
 -B.E. :   Electrical and Electronics Engineering, Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal (Aug 2012- May 2016)|CGPA: 8.38/1
 ### Publication
-# Journal
+#### Journal
 -P. K. Chaudhary and R.B. Pachori. "Automatic diagnosis of glaucoma using two-dimensional Fourier-Bessel series expansion based empirical wavelet transform." Biomedical Signal Processing and Control 64 (2021): 102237. 
 
 -P. K. Chaudhary, and R. B. Pachori. "FBSED based automatic diagnosis of COVID-19 using X-ray and CT images." Computers in biology and medicine 134 (2021): 104454.
@@ -28,12 +28,12 @@ His research interests include medical signal processing, image processing, patt
 
 -P. K. Chaudhary, and R. B. Pachori. "Breast cancer diagnosis using Iterative Fourier-Bessel decomposition method based CNN-kernel features. (Under Revision).
 
-# Conferences
+#### Conferences
 -P. K. Chaudhary, and R. B. Pachori. "Automatic diagnosis of COVID-19 and pneumonia using FBD method." In 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 2257-2263. IEEE, 2020.
 
 -P. K. Chaudhary, S. Jain, T. Damani, S. Gokharu and R.B. Pachori. "Automatic Diagnosis of Type of Glaucoma Using Order-One 2D-FBSE-EWT". XXIV International Conference on Digital Signal Processing and Its Applications (DSPA-2022), 30 March-1 April, 2022.
 
-# Book Chapter
+#### Book Chapter
 -P. K. Chaudhary, and R. B. Pachori. "Denoising of biomedical images using two-dimensional Fourier-Bessel series expansion based empirical wavelet transform."Assistive Technology Intervention in Healthcare.
 
 ### Awards and Honors:
@@ -61,6 +61,6 @@ His research interests include medical signal processing, image processing, patt
 
 -Research Fellow Mayo Clinic May 2023 to present
 
-## Skills
+### Skills
 Languages: MATLAB, C++, Python, R
 
