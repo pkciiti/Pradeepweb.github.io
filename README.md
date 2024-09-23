@@ -16,16 +16,22 @@ His research interests include medical signal processing, image processing, patt
 [Publication](https://www.sciencedirect.com/science/article/pii/S1746809420303670)
 
 -P. K. Chaudhary, and R. B. Pachori. "FBSED based automatic diagnosis of COVID-19 using X-ray and CT images." Computers in biology and medicine 134 (2021): 104454.
+[Publication](https://www.sciencedirect.com/science/article/pii/S0010482521002481)
 
 -P. K. Chaudhary, and R. B. Pachori. "Automatic Diagnosis of Different Grades of Diabetic Retinopathy and Diabetic Macular Edema Using 2D-FBSE-FAWT." IEEE Transactions on Instrumentation and Measurement (2022): 10.1109/TIM.2022.3140437.
+[Publication](https://ieeexplore.ieee.org/abstract/document/9669914)
 
 -P. K. Chaudhary, V. Gupta, and R. B. Pachori. "Fourier-Bessel representation for signal processing: A review" Digital Signal Processing. 
+[Publication](https://www.sciencedirect.com/science/article/pii/S1051200423000337)
 
 -P. K. Chaudhary, and R. B. Pachori. "Automatic Detection of Benign and Malignant Masses in Mammogram Using 2D-Fourier-Bessel Intrinsic Band Functions and Improved Feature Space. IEEE Transactions on Artificial Intelligence (2024).
+[Publication](https://www.computer.org/csdl/journal/ai/5555/01/10518147/1WDYp2uytYQ)
 
 -P. K. Chaudhary, J. Gu, D. P. Rosen, N. B. Larson, J. E. Brumbaugh, M. Fatemi, A. Alizad, Pulsed Vibro-Acoustic Analysis Technique for Monitoring Bone Health in Preterm Infants: A Pilot Study. IEEE Access (2024).
+[Publication](https://ieeexplore.ieee.org/abstract/document/10620981)
 
 -P. K. Chaudhary, FBSE-based JPEG image compression, IEEE Sensor Letter (2024).
+[Publication](https://ieeexplore.ieee.org/abstract/document/10379071)
 
 -P. K. Chaudhary, S. Jain, T. Damani, S. Gokharu and R. B. Pachori. "Detection of Primary and Secondary Glaucoma Using 2D-FBSE-EWT From Different Fundus Image Modalities" (Under Revision).
 
